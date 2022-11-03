@@ -23,6 +23,7 @@ public class DataTask extends Task<List<Forecast>> {
         if ((latitude != null) && (longitude != null)) {
             return forecastService.getLocationForecast(latitude, longitude);
         }
+        return null;
     }
 
 }

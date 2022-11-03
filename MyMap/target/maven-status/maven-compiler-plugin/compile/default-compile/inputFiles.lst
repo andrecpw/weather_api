@@ -1,4 +1,11 @@
 C:\Users\andre\Dev\Java\weather_api\MyMap\src\main\java\space\harbour\mymap\MyMapApp.java
+C:\Users\andre\Dev\Java\weather_api\MyMap\src\main\java\space\harbour\mymap\task\DataTask.java
+C:\Users\andre\Dev\Java\weather_api\MyMap\src\main\java\space\harbour\mymap\domain\Forecast.java
+C:\Users\andre\Dev\Java\weather_api\MyMap\src\main\java\space\harbour\mymap\util\Constants.java
+C:\Users\andre\Dev\Java\weather_api\MyMap\src\main\java\space\harbour\mymap\service\ForecastService.java
 C:\Users\andre\Dev\Java\weather_api\MyMap\src\main\java\space\harbour\mymap\controller\MyMapController.java
+C:\Users\andre\Dev\Java\weather_api\MyMap\src\main\java\space\harbour\mymap\util\DateUtils.java
+C:\Users\andre\Dev\Java\weather_api\MyMap\src\main\java\space\harbour\mymap\domain\Hourly.java
 C:\Users\andre\Dev\Java\weather_api\MyMap\src\main\java\space\harbour\mymap\controller\CustomAlertController.java
 C:\Users\andre\Dev\Java\weather_api\MyMap\src\main\java\space\harbour\mymap\util\Resources.java
+C:\Users\andre\Dev\Java\weather_api\MyMap\src\main\java\space\harbour\mymap\service\ForecastApiService.java

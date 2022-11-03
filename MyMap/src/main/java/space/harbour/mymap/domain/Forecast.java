@@ -6,6 +6,7 @@ import space.harbour.mymap.util.DateUtils;
 
 import java.time.LocalDateTime;
 import java.util.List;
+import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 @Data
@@ -21,7 +22,8 @@ public class Forecast {
         List<Long> timestampList = hourly.getTime();
         List<LocalDateTime> hourlyList = timestampList.stream()
                 .map(DateUtils::getDateTimeFromTimestamp)
-                .toList();
+                .collect(Collectors.toList());
+        return hourlyList;
     }
 
 }

@@ -22,7 +22,7 @@ public class ForecastService {
     }
 
     public List<Forecast> getLocationForecast(String latitude, String longitude) {
-        Call<List<Forecast>> forecastsCall = api.getLocationForecast();
+        Call<List<Forecast>> forecastsCall = api.getLocationForecast(latitude, longitude);
         try {
             Response<List<Forecast>> response = forecastsCall.execute();
             return response.body();

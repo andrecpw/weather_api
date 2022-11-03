@@ -1,1 +1,11 @@
+space\harbour\mymap\controller\CustomAlertController.class
+space\harbour\mymap\util\DateUtils.class
+space\harbour\mymap\domain\Forecast.class
+space\harbour\mymap\service\ForecastService.class
+space\harbour\mymap\service\ForecastApiService.class
+space\harbour\mymap\task\DataTask.class
+space\harbour\mymap\util\Constants.class
 space\harbour\mymap\MyMapApp.class
+space\harbour\mymap\domain\Hourly.class
+space\harbour\mymap\util\Resources.class
+space\harbour\mymap\controller\MyMapController.class
